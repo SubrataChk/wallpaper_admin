@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40268923753",
+    "project_id": "wallpaper-a81bc",
+    "storage_bucket": "wallpaper-a81bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40268923753:android:73c80c2fe65a4a726633f8",
+        "android_client_info": {
+          "package_name": "com.subratadev.wallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40268923753-8ik5o5nqlbm6k66ee4194r073e5k7ma3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.subratadev.wallpaper",
+            "certificate_hash": "b66f20227837951ae1bb7b1cb5bd11b5f238f4d0"
+          }
+        },
+        {
+          "client_id": "40268923753-3eau8md1n7si36534lda69fqft5rbtha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT8weqLfGj5QeHXqxu9xEt0w6sTQR75yY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40268923753-3eau8md1n7si36534lda69fqft5rbtha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
